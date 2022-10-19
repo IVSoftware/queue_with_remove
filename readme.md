@@ -73,4 +73,4 @@ There can be good reasons for wanting to 'remove' or otherwise negate certain it
         public string Text { get; set; }
     }
 
-[![Queue output skips over cancelled items][1]](https://github.com/IVSoftware/queue_with_remove/blob/master/queue_with_remove/Screenshots/screenshot.png)
+[![Queue output skips over cancelled items]](https://github.com/IVSoftware/queue_with_remove/blob/master/queue_with_remove/Screenshots/screenshot.png)
